@@ -9,6 +9,8 @@ environment:
 dependencies:
 
   geolocator: ^5.3.1
+  http: ^0.12.1
+  flutter_spinkit: "^4.1.2"
   flutter:
     sdk: flutter
 
